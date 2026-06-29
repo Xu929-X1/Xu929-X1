@@ -1,7 +1,3 @@
-# Bowei Xu
-
-Frontend / fullstack developer
-
 ## Projects
 
 - **[memex](https://github.com/Xu929-X1/memex)** — Personal knowledge engine with RAG + MCP server. Trying to build what Vannevar Bush imagined in 1945.
@@ -11,7 +7,3 @@ Frontend / fullstack developer
 ## Writing
 
 - [memex — Why I start building it](https://xu929-x1.github.io/blog/blog/memex-why-i-start-building-it/)
-
-## Stack
-
-React · TypeScript · Rust · Next.js · Node.js
