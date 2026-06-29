@@ -6,4 +6,4 @@
 
 ## Writing
 
-- [memex — Why I start building it](https://xu929-x1.github.io/blog/memex-why-i-start-building-it/)
+- [memex — Why I start building it](https://xu929-x1.github.io/blog/blog/memex---inspiration-and-current-status/)
